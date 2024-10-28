@@ -3,7 +3,7 @@
 
 | Nombre  | Alias | Link |
 | ------- | ----  |---- |
-| Bettina | Alfa  |     |
+| Bettina | Alfa  | https://github.com/Eddie-Me/hg-2-delta     |
 | Samuel | Bravo  |    |
 | Victor | Charlie  |  |
 | Eduardo| Delta  | https://github.com/Eddie-Me/hg-2-delta |
